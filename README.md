@@ -28,6 +28,7 @@ This package is [Treeware](https://treeware.earth). If you use it in production,
 * Permissions to execute a php binary
 * proc_open()
 * **PHP >=7.1** (for PHP 7.0 use `ostark/craft-async-queue:1.3.*`)
+* on fortrabbit this is not recomended with Pro Apps, run a Worker.
 
 ## Installation
 
